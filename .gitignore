@@ -1,0 +1,13 @@
+#Scid KingBase
+KingBase*
+*.si4
+*.sg4
+*sn4
+
+
+#Python
+.ipynb_checkpoints
+.pytest_cache
+__pycache__
+*.py[co]
+

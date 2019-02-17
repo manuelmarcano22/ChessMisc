@@ -1,0 +1,89 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.02.15"]
+[Round "?"]
+[White "Arvind"]
+[Black "Manuel Pichardo"]
+[Result "0-1"]
+[EventDate "2019.02.15"]
+
+1.e4 d5 2.Bd3 e5 3.Nf3 Nf6 4.O-O dxe4 5.Nxe5 exd3 6.cxd3 Qxd3 7.Nxd3 Bf5 
+8.Qe2+ Be7 9.Nf4 Nc6 10.d3 Rd8 11.Nc3 Ne5 12.d4 Rxd4 13.Be3 Bd3 14.Nxd3 
+Rxd3 15.Nb5 O-O 16.Nxc7 a6 17.Bf4 Bd6 18.Bxe5 Re8 19.Bxd6 Rxe2 20.Nb5 axb5
+21.Rac1 Rxd6 22.Rc8+ Re8 23.Rfc1 Rdd8 24.b3 Rxc8 25.Rf1 Ne4 26.f3 Nc3 27.
+a4 bxa4 28.b4 Na2 29.h4 Nxb4 30.Rb1 Nc2 31.Rxb7 a3 32.Ra7 Re1+ 33.Kh2 Ra1 
+34.Re7 a2 35.h5 h6 36.g4 Ra8 37.f4 Re1 38.Rxe1 Nxe1 39.Kh3 a1=Q 40.Kh4 
+Qf6+ 41.g5 Qxf4+ 42.Kh3 Ra3# 0-1
+
+[Event "TTU Chess: Chapter 1"]
+[Site "Physics Lounge"]
+[Date "0005.??.??"]
+[Round "?"]
+[White "Arvind"]
+[Black "Manuel Pichardo"]
+[Result "0-1"]
+[ECO "D00"]
+[UTCDate "2019.02.05"]
+[UTCTime "23:29:00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Stonewall Attack"]
+[Annotator "https://lichess.org/@/mmarcano22"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 Nc6 4. Nf3 e6 5. O-O Bd6 6. Bd2 O-O 7. c4 Re8 $6
+{Inaccuracy. Best move was dxc4.} 
+    ( 7. ... dxc4 8. Bxc4 e5 9. Nxe5 
+        ( 9. dxe5 Nxe5 10. Nxe5 Bxe5 )
+    9. ... Nxe5 10. dxe5 Bxe5 11. Qc2 Qe7 12. h3 )
+8. Nc3 $6 {Inaccuracy. Best move was c5.} 
+    ( 8. c5 Bf8 9. Bb5 Bd7 10. Nc3 Ne4 11. Bxc6 Bxc6 12. Ne5 g6 )
+8. ... Nb4 $6 {Inaccuracy. Best move was dxc4.} 
+    ( 8. ... dxc4 9. Bxc4 a6 10. a3 h6 11. Rc1 e5 12. d5 e4 13. dxc6 exf3 
+    14. cxb7 Bxb7 15. Bxf7+ )
+9. Be2 c6 
+    ( 9. ... c5 10. dxc5 Bxc5 )
+10. a3 Na6 11. cxd5 $2 {Mistake. Best move was Rc1.} 
+    ( 11. Rc1 Ne4 )
+11. ... cxd5 
+    ( 11. ... exd5 12. Nb5 
+        ( 12. Ng5 )
+    )
+12. Nb5 Ne4 
+    ( 12. ... Bb8 13. Ng5 )
+13. Bb4 $2 {Mistake. Best move was Nxd6.} 
+    ( 13. Nxd6 Qxd6 )
+13. ... Bxb4 
+    ( 13. ... Nxb4 14. Nxd6 Qxd6 15. axb4 Qxb4 )
+14. axb4 Nxb4 15. Ne5 $6 {Inaccuracy. Best move was Nxa7.} 
+    ( 15. Nxa7 Bd7 16. Qb3 Qe7 17. Rfd1 Reb8 18. Ra3 Be8 19. Rda1 Qf8 20. 
+    Nb5 Bxb5 21. Bxb5 Rxa3 )
+15. ... a6 16. Nc3 $6 {Inaccuracy. Best move was Qa4.} 
+    ( 16. Qa4 Nc6 )
+16. ... f6 17. Bh5 $2 {Mistake. Best move was Nd3.} 
+    ( 17. Nd3 Nxd3 )
+17. ... g6 
+    ( 17. ... fxe5 18. Bxe8 Qxe8 19. dxe5 Nxc3 20. bxc3 Nc6 )
+    ( 17. ... Rf8 )
+    ( 17. ... Re7 18. Nf7 Qc7 )
+18. Nxg6 hxg6 19. Bxg6 Rf8 
+    ( 19. ... Re7 20. Qh5 Rg7 21. Nxe4 dxe4 22. Bxe4 Bd7 )
+20. Qh5 Qe7 
+    ( 20. ... Ng5 $4 {Blunder. Best move was Qe7.} 21. f4 Qe7 22. fxg5 f5 
+        ( 22. ... fxg5 $2 {Checkmate is now unavoidable. Best move was f5.
+        } 23. Rf7 $4 {Lost forced checkmate sequence. Best move was Rxf8+.
+        } 
+            ( 23. Rxf8+ Kg7 
+                ( 23. ... Qxf8 24. Qh7# )
+                ( 23. ... Kxf8 24. Qh8# )
+            24. Qh7+ Kxf8 25. Qh8# )
+        23. ... Rxf7 24. Bb1 $4 {Blunder. Best move was Bxf7+.} 
+            ( 24. Bxf7+ Qxf7 25. Qxg5+ Qg7 26. Qd8+ Qf8 27. Qh4 Bd7 28. 
+            Rf1 Qg7 29. Rf3 Rf8 30. Rg3 Rf7 )
+        24. ... Qf6 25. e4 $2 {Checkmate is now unavoidable. Best move was
+        Qg6+.} 
+            ( 25. Qg6+ Qxg6 26. Bxg6 Rf6 27. Ra4 Rxg6 28. Rxb4 b5 29. e4 
+            dxe4 30. Nxe4 Bb7 31. d5 Bxd5 )
+        25. ... Qf1# )
+    23. Rf3 Qg7 24. Rh3 Rd8 25. Ne2 Nc6 26. Nf4 e5 27. Bf7+ Kf8 28. Nxd5 
+    Rxd5 29. Bxd5 )
+21. Nxe4 0-1
+
