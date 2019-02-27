@@ -10,6 +10,11 @@ Database in Portable game format PGN
 Python client for the lichess API https://berserk.readthedocs.io
 
 
+# Chess free scid databases
+
+- [KingBase](https://www.kingbase-chess.net/)
+- [Caissabase](http://caissabase.co.uk/)
+
 ## Useful commands and links
 
 

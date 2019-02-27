@@ -11,3 +11,6 @@ KingBase*
 __pycache__
 *.py[co]
 
+
+#Scid appearence
+*.zip
