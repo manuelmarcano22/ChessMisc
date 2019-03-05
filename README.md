@@ -15,9 +15,14 @@ Python client for the lichess API https://berserk.readthedocs.io
 - [KingBase](https://www.kingbase-chess.net/)
 - [Caissabase](http://caissabase.co.uk/)
 
-## Useful commands and links
+# Useful commands and links
+
+## Scid vs. PC
+
+To add to an existing pgn database. By default they are Read only for scid and should better work with a scid database, but can import the game then do: Tools, Export current game, then Export to PGN and in the first file click yes to Add games to an existing file. 
 
 
+## Links
 - python-chess https://github.com/niklasf/python-chess
 
 
