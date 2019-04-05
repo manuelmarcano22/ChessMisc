@@ -1,8 +1,8 @@
 #Scid KingBase
 KingBase*
-*.si4
-*.sg4
-*sn4
+Caissa*.si4
+Caissa*.sg4
+Caissa*sn4
 
 
 #Python

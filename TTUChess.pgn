@@ -113,3 +113,24 @@ Re8 23. b4 b6 24. g3 Rb8 25. Re1 Be7 26. Re5 Nd6 27. bxc5 bxc5 28. Nxc5+
 Kd8 29. Nxa6 Ra8 30. c5 Rxa6 31. Bxa6 Nc8 32. d6 Bg5 33. Rxe8+ Kxe8 34. 
 Rb1 Kd7 35. Rb7+ Kc6 36. Rc7# {White wins by checkmate.} 1-0
 
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/vlD28A3G"]
+[Date "2019.03.16"]
+[Round "-"]
+[White "Manuel Pichardo"]
+[Black "Albertoibm"]
+[Result "0-1"]
+[UTCDate "2019.03.16"]
+[UTCTime "04:42:20"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 g6 2. d4 Bg7 { B06 Robatsch (Modern) Defense } 3. Nf3 e6 4. Bc4 Ne7 5. Bf4 b6 6. Nc3 Bb7 7. Qe2 Nbc6 8. Ba6 Bxa6 9. Qxa6 Nxd4 10. Nxd4 Bxd4 11. Bd2 Nc6 12. O-O-O Bxf2 13. Nb5 O-O 14. Bh6 Re8 15. Rhf1 Bc5 16. Rd3 Nb4 17. Rdf3 Nxa6 18. Rxf7 Qh4 19. Rxd7 Qxh6+ 20. Kd1 Red8 21. Rf7 Rxd7+ 22. Rxd7 Qh5+ 23. Kd2 Qg5+ 24. Kd3 Qe3+ 25. Kc4 Qxe4+ 26. Kc3 Bd6 27. Nxc7 Bb4+ 28. Kb3 Nc5# { Black wins by checkmate. } 0-1
+
+
