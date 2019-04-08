@@ -219,3 +219,143 @@ two queens.} 46.e5 Kxc3 47.e6 Kc4 48.e7 Kc3 49.e8=Q Kc4 50.f4 Kc3 51.f5
 Kc4 52.f6 Kc3 53.f7 Kc4 54.f8=Q Kc3 55.Qd8 Kc4 56.Qf7+ {Black resigns.} 
 1-0
 
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/eGIWJjMA"]
+[Date "2019.04.08"]
+[Round "-"]
+[White "stewy0013"]
+[Black "Manuel Pichardo M"]
+[Result "1-0"]
+[WhiteElo "883"]
+[BlackElo "1092"]
+[ECO "D31"]
+[UTCDate "2019.04.08"]
+[UTCTime "01:57:21"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-44"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1.d4 d5 2.c4 e6 3.Nc3 {D31 Queen's Gambit Declined: Queen's Knight 
+Variation} 3...Bb4 4.e3 Nf6 5.Ne2 Ne4 $6 ( 5...dxc4 ) ( 5...O-O ) 6.f3 
+Nxc3 7.Nxc3 O-O 8.Bd3 Nd7 9.Bb1 b6 $4 $4 {I should have realized what he 
+wanted to do. I messed up. Could have check and put the queen on h3 to 
+avoid the king from casttling. } 10.Qc2 Ba6 $4 {I lost the game due to 
+this. } ( 10...g6 ) 11.Qxh7# {White wins by checkmate.} 1-0
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/MGaJmxmg"]
+[Date "2019.04.08"]
+[Round "-"]
+[White "AloBarajs"]
+[Black "Manuel Pichardo"]
+[Result "1-0"]
+[WhiteElo "1218"]
+[BlackElo "1048"]
+[ECO "C57"]
+[UTCDate "2019.04.08"]
+[UTCTime "02:40:05"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-16"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 {C57 Italian Game: Two Knights Defense, 
+Knight Attack} 4...Qe7 $6 ( 4...d5 ) 5.d3 h6 6.Nf3 d5 $4 {I think I just 
+lost a pawn. 
+} 7.exd5 Nd4 8.Nxd4 exd4+ 9.Qe2 Qxe2+ 10.Kxe2 {I feel that after this I 
+didnt really had a too bad postion. } 10...Bg4+ ( 10...Ng4 11.f3 Ne3 {
+attacking two pawns?} ) 11.f3 Bh5 12.g4 Bg6 13.Re1 O-O-O 14.Kf2 Bd6 $2 {
+Maybe could have taken the d4 pawn} ( 14...Nxd5 ) ( 14...h5 15.gxh5 Rxh5 )
+15.Kg1 Rde8 16.Rxe8+ Rxe8 17.Bd2 Re2 ( 17...h5 ) 18.c3 dxc3 $4 {He would 
+have had three paws in line
+} ( 18...Rxh2 19.cxd4 h5 ) 19.bxc3 Bxh2+ 20.Kf1 Re5 21.d4 Rg5 $4 $4 $4 $4 
+{I still was winning accordng to the engine. } ( 21...Re8 ) ( 21...Re7 ) 
+22.Bxg5 {Black resigns.} 22...hxg5 1-0
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/QKGfZ1ik"]
+[Date "2019.04.08"]
+[Round "-"]
+[White "Manuel Pichardo"]
+[Black "Jam2277"]
+[Result "1-0"]
+[WhiteElo "1032"]
+[BlackElo "1013"]
+[ECO "C53"]
+[EventDate "2019.04.08"]
+[UTCDate "2019.04.08"]
+[UTCTime "03:55:17"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-23"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 {C53 Italian Game: Classical 
+Variation, Giuoco Pianissimo} 5...O-O 6.O-O d5 $6 {(0.00 → 0.71) 
+Inaccuracy. Best move was d6.} ( 6...d6 7.a4 a5 8.Bg5 h6 9.Bh4 g5 10.Bg3 
+g4 11.Bh4 ) 7.exd5 Nxd5 8.d4 Bd6 $4 {(0.04 → 4.31) Blunder. Best move 
+was exd4.} ( 8...exd4 9.cxd4 Be7 10.Re1 Be6 11.Bb3 Qd7 12.Nc3 Rad8 13.Bg5 
+h6 14.Bxd5 Bxd5 15.Bxe7 ) 9.Bxd5 h6 $2 {(4.38 → 5.68) Mistake. Best move
+was exd4.} ( 9...exd4 10.Bxc6 bxc6 11.cxd4 Re8 12.Be3 Qf6 13.Nbd2 Be6 14.
+Rc1 Bd5 15.Nc4 Qg6 16.b3 ) 10.Re1 $2 {(5.68 → 4.57) Mistake. Best move 
+was Bxc6.} ( 10.Bxc6 bxc6 11.dxe5 Be7 12.c4 Qxd1 13.Rxd1 f6 14.Bf4 Rb8 15.
+b3 fxe5 16.Bxe5 Bg4 ) 10...Re8 $2 {(4.57 → 5.57) Mistake. Best move was 
+exd4.} ( 10...exd4 11.Bxc6 bxc6 12.cxd4 c5 13.Be3 cxd4 14.Qxd4 Re8 15.Nbd2
+a5 16.Bf4 Rxe1+ 17.Rxe1 ) 11.dxe5 $6 {(5.57 → 4.95) Inaccuracy. Best 
+move was Bxc6.} ( 11.Bxc6 bxc6 12.dxe5 Bf8 13.Qe2 Qd5 14.c4 Qe6 15.Nc3 Qg6
+16.Ne4 Bb7 17.Bd2 Rad8 ) 11...Bxe5 $6 {(4.95 → 5.91) Inaccuracy. Best 
+move was Nxe5.} ( 11...Nxe5 12.Nbd2 c6 13.Nxe5 cxd5 14.Ndf3 Bf5 15.Bf4 Be4
+16.Nd3 Bxd3 17.Rxe8+ Qxe8 18.Bxd6 ) 12.Nxe5 $6 {(5.91 → 4.98) 
+Inaccuracy. Best move was Bxc6.} ( 12.Bxc6 Qxd1 13.Rxd1 bxc6 14.Re1 f6 15.
+Bf4 Bg4 16.Bxe5 Bxf3 17.gxf3 Rxe5 18.Rxe5 fxe5 ) 12...Nxe5 13.Bf4 c6 14.
+Rxe5 cxd5 15.Rxe8+ Qxe8 16.Na3 Bg4 $4 {(5.11 → 10.56) Blunder. Best move
+was Qe4.} ( 16...Qe4 ) 17.Qxg4 d4 18.cxd4 Rd8 19.Nb5 $2 {(11.50 → 8.82) 
+Mistake. Best move was Bxh6.} ( 19.Bxh6 g6 20.Bg5 Rd6 21.Nc4 Ra6 22.Be3 
+Qb5 23.Qc8+ Kg7 24.b3 Qc6 25.Qxc6 bxc6 ) 19...Qxb5 20.h3 $4 {(8.66 → 
+5.31) Blunder. Best move was Bxh6.} ( 20.Bxh6 ) 20...Rxd4 21.Rd1 $2 {(5.30
+→ 4.29) Mistake. Best move was Qc8+.} ( 21.Qc8+ Kh7 22.Be3 Rd5 23.Qc2+ 
+Kg8 ) 21...Qd5 $2 {(4.29 → 6.78) Mistake. Best move was Rxd1+.} ( 21...
+Rxd1+ 22.Qxd1 Qxb2 23.Qd8+ Kh7 24.Qd5 f6 25.g4 Qc2 26.Kg2 Qc6 27.Qxc6 bxc6
+28.Be3 ) 22.Rxd4 Qxd4 23.b3 $2 {(6.56 → 5.49) Mistake. Best move was 
+Qc8+.} ( 23.Qc8+ Kh7 24.Qc2+ Kh8 25.Qc8+ Kh7 26.Qc2+ Kh8 27.Be3 ) 23...
+Qd1+ $4 {(5.49 → Mate in 9) Checkmate is now unavoidable. Best move was 
+a6.} ( 23...a6 24.Qc8+ ) 24.Qxd1 {Black resigns.} 1-0
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/4npNWUrc"]
+[Date "2019.04.08"]
+[Round "-"]
+[White "Manuel Pichardo"]
+[Black "Babrok"]
+[Result "0-1"]
+[WhiteElo "1056"]
+[BlackElo "1067"]
+[ECO "C41"]
+[UTCDate "2019.04.08"]
+[UTCTime "04:25:04"]
+[WhiteRatingDiff "-23"]
+[BlackRatingDiff "+10"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1.e4 e5 2.Nf3 d6 3.Bc4 $2 {C41 Philidor Defense. By far the most popular 
+respond is d4.} ( 3.d4 exd4 4.Nxd4 ) 3...Nd7 4.d4 f6 5.d5 $2 {Should I 
+have taken. The engine says I should have 0-0} ( 5.dxe5 fxe5 ( 5...dxe5 6.
+Bb5 c6 ) ( 5...Nxe5 6.Nxe5 dxe5 ( 6...fxe5 7.O-O ) 7.Qxd8+ Kxd8 8.O-O ) 6.
+Ng5 ) 5...Nb6 6.Bb5+ Bd7 7.Nc3 ( 7.Bxd7+ Qxd7 8.Nc3 ) 7...a6 8.Ba4 $4 {
+lost the bishop} ( 8.Bd3 ) ( 8.Bxd7+ Qxd7 ) 8...Nxa4 9.Nxa4 {White 
+resigns.} 0-1
+
