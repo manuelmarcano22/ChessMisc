@@ -485,7 +485,7 @@ completeley missed the Fork. Myab moving thr rook?} 23...exf4 24.Bxf4 Ne2+
 [Site "https://lichess.org/okZl9YFY"]
 [Date "2019.07.07"]
 [Round "-"]
-[White "Manuel Pichardo M"]
+[White "Manuel Pichardo"]
 [Black "john_Targarien"]
 [Result "0-1"]
 [WhiteElo "1381"]
@@ -573,4 +573,56 @@ Qe6+ Kh7 29.Bc1 Rxg3 30.fxg3 Qe8 31.Qf5+ Qg6 $4 $6 {Diossss. Engine says
 he were bsically equal at this point. He coulc have had the advantege but 
 I lost it all} 32.Qxc8 Qxg3 33.Nxg3 g5 34.Qxc7+ Kg6 35.Qxd6 Kf7 36.Qxa6 {
 Black resigns.} 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GMfibMss"]
+[Date "2019.07.21"]
+[Round "-"]
+[White "morteza52"]
+[Black "Manuel Pichardo"]
+[Result "0-1"]
+[WhiteElo "1378"]
+[BlackElo "1383"]
+[ECO "C65"]
+[UTCDate "2019.07.21"]
+[UTCTime "18:08:56"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[Variant "Standard"]
+[TimeControl "900+15"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 {C65 Ruy Lopez: Berlin Defense} 4.d3 Bc5 5.
+Bxc6 dxc6 6.Nxe5 {I think this was a istake and the queen was a good move.
+} 6...Qd4 {Anoither fun alternative was to do Bxf2+ and the gotten the 
+knight. But better was Qd4} 7.Be3 Qxe5 $5 {I dint see the fork coming. 
+Maybe Qxb2?. Stockfish seems to be fine with the fork but the response I 
+messed up.} 8.d4 Bxd4 $4 $4 {Qxe4 was better.} ( 8...Qxe4 9.dxc5 Qxg2 10.
+Rf1 Bh3 11.Nd2 ) 9.Bxd4 Qxe4+ 10.Be3 Ng4 11.Nd2 Qxg2 12.Rf1 Nxe3 $6 {
+Should have done Nxh2} ( 12...Nxh2 ) 13.fxe3 Bg4 {I didnt want to move the
+queen from g2 so that the queen could get to f3. I am not sure that this 
+was the best thin to do. Maybe cattle long  befoire to ping the knight to 
+d2?} ( 13...Qxh2 14.Qf3 Be6 ) 14.Nf3 Rd8 15.Qe2 Qxe2+ 16.Kxe2 O-O 17.Rad1 
+Rxd1 18.Kxd1 Re8 19.Ke2 f5 20.Kf2 Bxf3 21.Kxf3 g6 22.Rd1 Kf8 23.Rd7 Re7 
+24.Rd8+ Re8 25.Rd7 Re7 26.Rd8+ Re8 27.Rd4 Ke7 28.Rh4 h5 29.Kf4 Kf6 30.Rh3 
+Rd8 31.Rf3 Rd2 32.Kg3 Rxc2 33.Rf1 Rxb2 34.Rf2 Rxf2 35.Kxf2 Ke5 36.Kg3 Ke4 
+37.Kh4 Kxe3 38.Kg5 c5 39.Kxg6 Kf3 40.h4 Kg4 41.Kf6 c4 42.Ke5 c3 43.Kd4 c2 
+44.Kd3 c1=Q {White resigns.} 0-1
+
+[Event "?"]
+[Site "Lichess"]
+[Date "2019.11.30"]
+[Round "?"]
+[White "Manuel Pichardo"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "2019.11.30"]
+
+1.e4 d5 2.exd5 e6 3.dxe6 Bxe6 4.Nf3 Bc5 5.c3 Bxf2+ 6.Kxf2 Nf6 7.d3 {I 
+blocked the bishop. I don't know} 7...O-O 8.Bg5 c6 {I think I should have 
+know that queen b6 was going for the check. Mayb shuld have captuore the 
+knight or h3?} 9.h4 $6 $6 Qb6+ 10.Ke1 Ng4 11.b3 $6 $6 $4 {Why I didnt see 
+the check} 11...Qf2# 0-1
 
